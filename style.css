@@ -1,0 +1,29 @@
+.fiverr {
+    gap: 10px;
+}
+
+.fiverr-counter {
+    flex: 1;
+}
+
+.counter h2 {
+    text-align: center;
+    color: rgb(230, 92, 6);
+    font-weight: 700;
+    padding-top: 10px;
+    font-size: 22px;
+}
+
+.per {
+    width: 100%;
+    height: 5px;
+    background-color: red;
+    border-radius: 12px;
+    display: none;
+}
+
+.percent {
+    display: none;
+    text-align: center;
+    color: #e65c06;
+}
